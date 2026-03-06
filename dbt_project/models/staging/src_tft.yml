@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: tft_raw
+    schema: public
+    tables:
+      - name: raw_top_players
+      - name: raw_match_ids
+      - name: raw_matches

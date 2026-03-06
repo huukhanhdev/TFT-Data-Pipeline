@@ -1,0 +1,159 @@
+item_id,item_name_vn,item_type
+TFT_Item_GuinsoosRageblade,Cuồng Đao Guinsoo,Thành phẩm
+TFT_Item_JeweledGauntlet,Găng Bảo Thạch,Thành phẩm
+TFT_Item_ThiefsGloves,Găng Đạo Tặc,Thành phẩm
+TFT_Item_SpearOfShojin,Ngọn Giáo Shojin,Thành phẩm
+TFT_Item_InfinityEdge,Vô Cực Kiếm,Thành phẩm
+TFT_Item_GargoyleStoneplate,Thú Tượng Thạch Giáp,Thành phẩm
+TFT_Item_RedBuff,Bùa Đỏ,Thành phẩm
+TFT_Item_Redemption,Dây Chuyền Chuộc Tội,Thành phẩm
+TFT_Item_WarmogsArmor,Giáp Máu Warmog,Thành phẩm
+TFT_Item_Bloodthirster,Huyết Kiếm,Thành phẩm
+TFT_Item_FrozenHeart,Lời Thề Hộ Vệ,Thành phẩm
+TFT_Item_SpectralGauntlet,Trái Tim Kiên Định,Thành phẩm
+TFT_Item_MadredsBloodrazor,Diệt Khổng Lồ,Thành phẩm
+TFT_Item_StatikkShiv,Dao Điện Statikk,Thành phẩm
+TFT_Item_AdaptiveHelm,Mũ Thích Nghi,Thành phẩm
+TFT_Item_Morellonomicon,Quỷ Thư Morello,Thành phẩm
+TFT_Item_UnstableConcoction,Bàn Tay Công Lý,Thành phẩm
+TFT_Item_TitansResolve,Quyền Năng Khổng Thần,Thành phẩm
+TFT_Item_Leviathan,Giáp Vai Nguyệt Thần,Thành phẩm
+TFT_Item_BrambleVest,Giáp Gai,Thành phẩm
+TFT_Item_SteraksGage,Móng Vuốt Sterak,Thành phẩm
+TFT_Item_BlueBuff,Bùa Xanh,Thành phẩm
+TFT_Item_HextechGunblade,Kiếm Súng Hextech,Thành phẩm
+TFT_Item_NightHarvester,Vương Miện Suy Vong,Thành phẩm
+TFT_Item_DragonsClaw,Vuốt Rồng,Thành phẩm
+TFT_Item_PowerGauntlet,Phá Khiên,Thành phẩm
+TFT_Item_LastWhisper,Cung Xanh,Thành phẩm
+TFT_Item_RapidFireCannon,Nanh Nashor,Thành phẩm
+TFT_Item_RabadonsDeathcap,Mũ Phù Thủy Rabadon,Thành phẩm
+TFT_Item_Crownguard,Kính Nhắm Ma Pháp,Thành phẩm
+TFT_Item_Deathblade,Kiếm Tử Thần,Thành phẩm
+TFT_Item_IonicSpark,Nỏ Sét,Thành phẩm
+TFT_Item_Quicksilver,Áo Choàng Thủy Ngân,Thành phẩm
+TFT_Item_RunaansHurricane,Cuồng Cung Runaan,Thành phẩm
+TFT_Item_ArchangelsStaff,Quyền Trượng Thiên Thần,Thành phẩm
+TFT_Item_GuardianAngel,Áo Choàng Bóng Tối,Thành phẩm
+TFT_Item_ForceOfNature,Giáp Thiên Nhiên,Đặc biệt
+TFT_Item_EmptyBag,Túi Đồ Trống,Đặc biệt
+TFT_Item_GiantsBelt,Đai Khổng Lồ,Thành phần
+TFT_Item_TearOfTheGoddess,Nước Mắt Nữ Thần,Thành phần
+TFT_Item_ChainVest,Giáp Lưới,Thành phần
+TFT_Item_RecurveBow,Cung Gỗ,Thành phần
+TFT_Item_NeedlesslyLargeRod,Gậy Quá Khổ,Thành phần
+TFT_Item_NegatronCloak,Áo Choàng Bạc,Thành phần
+TFT_Item_BFSword,Kiếm BF,Thành phần
+TFT_Item_Spatula,Xẻng Vàng,Thành phần
+TFT_Item_FryingPan,Chảo Vàng (Frying Pan),Thành phần
+TFT_Item_SparringGloves,Găng Tập Sự,Thành phần
+TFT5_Item_SteraksGageRadiant,Móng Vuốt Sterak (Ánh Sáng),Ánh Sáng
+TFT5_Item_BlueBuffRadiant,Bùa Xanh (Ánh Sáng),Ánh Sáng
+TFT5_Item_SpearOfShojinRadiant,Ngọn Giáo Shojin (Ánh Sáng),Ánh Sáng
+TFT5_Item_DeathbladeRadiant,Kiếm Tử Thần (Ánh Sáng),Ánh Sáng
+TFT5_Item_CrownguardRadiant,Kính Nhắm Ma Pháp (Ánh Sáng),Ánh Sáng
+TFT5_Item_JeweledGauntletRadiant,Găng Bảo Thạch (Ánh Sáng),Ánh Sáng
+TFT5_Item_QuicksilverRadiant,Áo Choàng Thủy Ngân (Ánh Sáng),Ánh Sáng
+TFT5_Item_GuardianAngelRadiant,Giáp Thiên Thần (Ánh Sáng),Ánh Sáng
+TFT5_Item_AdaptiveHelmRadiant,Mũ Thích Nghi (Ánh Sáng),Ánh Sáng
+TFT5_Item_ArchangelsStaffRadiant,Quyền Trượng Thiên Thần (Ánh Sáng),Ánh Sáng
+TFT5_Item_BloodthirsterRadiant,Huyết Kiếm (Ánh Sáng),Ánh Sáng
+TFT5_Item_BrambleVestRadiant,Giáp Gai (Ánh Sáng),Ánh Sáng
+TFT5_Item_DragonsClawRadiant,Vuốt Rồng (Ánh Sáng),Ánh Sáng
+TFT5_Item_GargoyleStoneplateRadiant,Thú Tượng Thạch Giáp (Ánh Sáng),Ánh Sáng
+TFT5_Item_GiantSlayerRadiant,Diệt Khổng Lồ (Ánh Sáng),Ánh Sáng
+TFT5_Item_GuinsoosRagebladeRadiant,Cuồng Đao Guinsoo (Ánh Sáng),Ánh Sáng
+TFT5_Item_HandOfJusticeRadiant,Bàn Tay Công Lý (Ánh Sáng),Ánh Sáng
+TFT5_Item_HextechGunbladeRadiant,Kiếm Súng Hextech (Ánh Sáng),Ánh Sáng
+TFT5_Item_InfinityEdgeRadiant,Vô Cực Kiếm (Ánh Sáng),Ánh Sáng
+TFT5_Item_IonicSparkRadiant,Nỏ Sét (Ánh Sáng),Ánh Sáng
+TFT5_Item_LastWhisperRadiant,Cung Xanh (Ánh Sáng),Ánh Sáng
+TFT5_Item_LeviathanRadiant,Giáp Vai Nguyệt Thần (Ánh Sáng),Ánh Sáng
+TFT5_Item_MorellonomiconRadiant,Quỷ Thư Morello (Ánh Sáng),Ánh Sáng
+TFT5_Item_NightHarvesterRadiant,Lưỡi Hái Bóng Đêm (Ánh Sáng),Ánh Sáng
+TFT5_Item_RabadonsDeathcapRadiant,Mũ Phù Thủy Rabadon (Ánh Sáng),Ánh Sáng
+TFT5_Item_RedemptionRadiant,Dây Chuyền Chuộc Tội (Ánh Sáng),Ánh Sáng
+TFT5_Item_RunaansHurricaneRadiant,Cuồng Cung Runaan (Ánh Sáng),Ánh Sáng
+TFT5_Item_SpectralGauntletRadiant,Găng Tay Phổ Quang (Ánh Sáng),Ánh Sáng
+TFT5_Item_StatikkShivRadiant,Dao Điện Statikk (Ánh Sáng),Ánh Sáng
+TFT5_Item_SunfireCapeRadiant,Áo Choàng Lửa (Ánh Sáng),Ánh Sáng
+TFT5_Item_ThiefsGlovesRadiant,Găng Đạo Tặc (Ánh Sáng),Ánh Sáng
+TFT5_Item_TitansResolveRadiant,Quyền Năng Khổng Thần (Ánh Sáng),Ánh Sáng
+TFT5_Item_TrapClawRadiant,Vuốt Bẫy (Ánh Sáng),Ánh Sáng
+TFT5_Item_WarmogsArmorRadiant,Giáp Máu Warmog (Ánh Sáng),Ánh Sáng
+TFT5_Item_FrozenHeartRadiant,Tim Băng / Mùa Đông Vĩnh Cửu (Ánh Sáng),Ánh Sáng
+TFT5_Item_RapidFirecannonRadiant,Đại Bác Liên Thanh (Ánh Sáng),Ánh Sáng
+TFT_Item_Artifact_ProwlersClaw,Móng Vuốt Kẻ Ám Sát (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_TalismanOfAscension,Bùa Thăng Hoa (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_BlightingJewel,Ngọc Héo Hôn (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_HorizonFocus,Kính Nhắm Ma Pháp (Cổ Vật),Cổ Vật
+TFT_Item_ChonccsChalice,Chén Sức Mạnh (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_AegisOfDawn,Khiên Bình Minh (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_AegisOfDusk,Khiên Hoàng Hôn (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_CappaJuice,Nước Ép Cappa (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_Dawncore,Lõi Bình Minh (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_EternalPact,Giao Kèo Vĩnh Cửu (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_Fishbones,Xương Cá (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_HellfireHatchet,Rìu Hỏa Ngục (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_LichBane,Kiếm Tai Ương (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_LightshieldCrest,Huy Hiệu Khiên Ánh Sáng (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_LudensTempest,Vọng Âm Luden (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_Mittens,Bao Tay Nhỏ (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_NavoriFlickerblades,Đoản Đao Navori (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_RapidFirecannon,Đại Bác Liên Thanh (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_SeekersArmguard,Giáp Tay Seeker (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_SilvermereDawn,Bình Minh Silvermere (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_StatikkShiv,Dao Điện Statikk (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_TheIndomitable,Bất Khuất (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_TitanicHydra,Rìu Đại Mãng Xà (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_VoidGauntlet,Găng Tay Hư Không (Cổ Vật),Cổ Vật
+TFT_Item_Artifact_WitsEnd,Đao Tím (Cổ Vật),Cổ Vật
+TFT_Item_ChonccsCrown,Vương Miện Choncc,Cổ Vật
+TFT_Item_TacticiansRing,Nhẫn Chiến Thuật Gia,Cổ Vật
+TFT_Item_TacticiansScepter,Quyền Trượng Chiến Thuật Gia,Cổ Vật
+TFT16_Item_BilgewaterEmblemItem,Ấn Bilgewater,Ấn
+TFT16_Item_IoniaEmblemItem,Ấn Ionia,Ấn
+TFT16_Item_BrawlerEmblemItem,Ấn Đấu Sĩ,Ấn
+TFT16_Item_SorcererEmblemItem,Ấn Pháp Sư,Ấn
+TFT16_Item_VoidEmblemItem,Ấn Hư Không,Ấn
+TFT16_Item_PiltoverEmblemItem,Ấn Piltover,Ấn
+TFT16_Item_ZaunEmblemItem,Ấn Zaun,Ấn
+TFT16_Item_DemaciaEmblemItem,Ấn Demacia,Ấn
+TFT16_Item_NoxusEmblemItem,Ấn Noxus,Ấn
+TFT16_Item_ShurimaEmblemItem,Ấn Shurima,Ấn
+TFT16_Item_FreljordEmblemItem,Ấn Freljord,Ấn
+TFT16_Item_TargonEmblemItem,Ấn Targon,Ấn
+TFT16_Item_VanquisherEmblemItem,Ấn Chinh Phục,Ấn
+TFT16_Item_SlayerEmblemItem,Ấn Đồ Tể,Ấn
+TFT16_Item_InvokerEmblemItem,Ấn Thuật Sĩ,Ấn
+TFT16_Item_IxtalEmblemItem,Ấn Ixtal,Ấn
+TFT16_Item_DefenderEmblemItem,Ấn Vệ Binh,Ấn
+TFT16_Item_GunslingerEmblemItem,Ấn Pháo Thủ,Ấn
+TFT16_Item_JuggernautEmblemItem,Ấn Đấu Sĩ (Juggernaut),Ấn
+TFT16_Item_LongshotEmblemItem,Ấn Viễn Xạ,Ấn
+TFT16_Item_MagusEmblemItem,Ấn Phù Thủy,Ấn
+TFT16_Item_RapidfireEmblemItem,Ấn Thiện Xạ,Ấn
+TFT16_Item_WardenEmblemItem,Ấn Hộ Vệ,Ấn
+TFT16_Item_YordleEmblemItem,Ấn Yordle,Ấn
+TFT16_TheDarkinAegis,Khiên Darkin,Vũ khí
+TFT16_TheDarkinBow,Cung Darkin,Vũ khí
+TFT16_TheDarkinScythe,Lưỡi Hái Darkin,Vũ khí
+TFT16_TheDarkinStaff,Quyền Trượng Darkin,Vũ khí
+TFT4_Item_OrnnDeathsDefiance,Vũ Điệu Tử Thần (Cổ Vật),Cổ Vật
+TFT4_Item_OrnnInfinityForce,Tam Hợp Kiếm (Cổ Vật),Cổ Vật
+TFT4_Item_OrnnTheCollector,Sưu Tầm (Cổ Vật),Cổ Vật
+TFT4_Item_OrnnZhonyasParadox,Đồng Hồ Cát Zhonya (Cổ Vật),Cổ Vật
+TFT4_Item_OrnnRocketPropelledFist,Bàn Tay Hỏa Tiễn (Cổ Vật),Cổ Vật
+TFT7_Item_ShimmerscaleGamblersBlade,Gươm Của Kẻ Bạc Đãi (Kim Long),Kim Long
+TFT7_Item_ShimmerscaleMogulsMail,Giáp Đại Gia (Kim Long),Kim Long
+TFT9_Item_CrownOfDemacia,Vương Miện Demacia,Đặc biệt
+TFT9_Item_OrnnHorizonFocus,Kính Nhắm Ma Pháp (Cổ Vật),Cổ Vật
+TFT9_Item_OrnnHullbreaker,Búa Tiến Công (Cổ Vật),Cổ Vật
+TFT16_Item_Bilgewater_BilgeratCutlass,Kiếm Hải Tặc,Bilgewater
+TFT16_Item_Bilgewater_BlackmarketExplosives,Thuốc Nổ Chợ Đen,Bilgewater
+TFT16_Item_Bilgewater_CaptainsBrew,Nước Uống Thuyền Trưởng,Bilgewater
+TFT16_Item_Bilgewater_DeadmansDagger,Dao Của Kẻ Chết,Bilgewater
+TFT16_Item_Bilgewater_FirstMatesFlintlock,Súng Hải Tặc,Bilgewater
+TFT16_Item_Bilgewater_FreebootersFrock,Áo Choàng Hải Tặc,Bilgewater
+TFT16_Item_Bilgewater_LuckyEyepatch,Bịt Mắt May Mắn,Bilgewater
+TFT16_Item_Bilgewater_PileOCitrus,Đống Cam,Bilgewater
