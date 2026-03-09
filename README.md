@@ -34,11 +34,18 @@ graph LR
 - **📈 Scalable Ingestion:** Khả năng theo dõi và lấy dữ liệu từ 11,500+ người chơi rank Đại Cao Thủ/Thách Đấu.
 
 ## 📊 Dashboard Insights
-*(Hãy đính kèm ảnh chụp màn hình Superset của bạn tại đây để tăng độ uy tín!)*
+![TFT Set 16 Dashboard](dashboard_screenshot.png)
 
 - **Báo cáo Tướng:** Tỉ lệ thắng theo cấp sao, hạng trung bình.
 - **Báo cáo Trang bị:** Hiệu quả của các món đồ Cổ vật và trang bị Ánh sáng.
 - **Báo cáo Đội hình:** Các cặp bài trùng (Synergies) đang thống trị meta.
+
+> [!NOTE]
+> **Giải thích về chỉ số "God-tier" (80-90% Win Rate):**
+> Các đơn vị như **Baron Nashor**, **T-Hex** hoặc các tướng 5 vàng (Xerath, Garen) thường có tỉ lệ vào Top 4 rất cao trong dữ liệu. Điều này là do **Survivorship Bias** (Thiên kiến người sống sót):
+> 1. Đây là những đơn vị triệu hồi từ hệ tộc rất mạnh (10 Eldritch) hoặc tướng đắt tiền chỉ xuất hiện ở giai đoạn cuối trận.
+> 2. Chỉ những người chơi đã thủ máu tốt và sống sót đến cuối trận mới có thể sở hữu chúng.
+> 3. Do đó, sự hiện diện của chúng trên bàn cờ tương quan cực mạnh với việc thắng trận.
 
 ## 🛠 Hướng dẫn cài đặt (Installation)
 
